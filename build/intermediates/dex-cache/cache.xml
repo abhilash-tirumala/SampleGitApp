@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/sys1059/backup/PracticeExamples/RuntimePermissions/MIPermissionCheck/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/sys1059/backup/PracticeExamples/RuntimePermissions/MIPermissionCheck/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_60ba084f665b4c28f2c9eae2ebe9fde8ac3b8f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sys1059/backup/PracticeExamples/RuntimePermissions/MIPermissionCheck/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6235187b23dcc60f06c308f2a02de34ef0469c">
+        <dex dex="/media/sys1059/backup/PracticeExamples/RuntimePermissions/MIPermissionCheck/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c967d85aeb439fbd83b8c78c7551cd0b9cb67cd3/classes.dex" />
+    </item>
+
+</items>
